@@ -1,0 +1,736 @@
+{
+  "title": "Become a Public Figure",
+  "subtitle": "We build your influence, your image, and your online authority so the world sees you the way you were meant to be seen.",
+  "cta": {
+    "label": "Book a meeting",
+    "href": "https://calendly.com/rami-w-alnajjar/alnajjar-firm-introductory-meeting"
+  },
+  "companies_we_work_with": [
+    "./clients-logo/1-3.png",
+    "./clients-logo/2-4.png",
+    "./clients-logo/3-4.png",
+    "./clients-logo/4-2.png",
+    "./clients-logo/5-2.png",
+    "./clients-logo/6-2.png",
+    "./clients-logo/7-2.png",
+    "./clients-logo/8-1.png",
+    "./clients-logo/9-1.png",
+    "./clients-logo/10-1.png",
+    "./clients-logo/11-1.png",
+    "./clients-logo/12-1.png",
+    "./clients-logo/13-1.png",
+    "./clients-logo/14-1.png",
+    "./clients-logo/15-1.png",
+    "./clients-logo/16-1.png",
+    "./clients-logo/17-1.png",
+    "./clients-logo/18-1.png",
+    "./clients-logo/19-1.png",
+    "./clients-logo/20-1.png",
+    "./clients-logo/21-1.png",
+    "./clients-logo/22-1.png",
+    "./clients-logo/23-1.png",
+    "./clients-logo/24-1.png",
+    "./clients-logo/25-1.png",
+    "./clients-logo/26-1.png",
+    "./clients-logo/27-1 (1).png",
+    "./clients-logo/28-1.png",
+    "./clients-logo/29-2.png",
+    "./clients-logo/30-2.png"
+  ],
+  "services": [
+    "Social media management",
+    "Content creation",
+    "Reels production",
+    "Video Editing",
+    "Videography / Photography",
+    "Branding & Identity",
+    "Graphic Design",
+    "Motion Graphics",
+    "Marketing strategy",
+    "Web / App development"
+  ],
+  "team": {
+    "Founders": [
+      "Rami Alnajjar — Owners & Marketing Strategists",
+      "Thalia Alnajjar — Owners & Marketing Strategists"
+    ],
+    "Management": [
+      "Maher Alnajjar — General Manager",
+      "Michael Ayoub — Head Of Operations",
+      "Mohammad Issa — Head Of Editorial",
+      "George Salloum — Performance Manager"
+    ],
+    "Shooting Team": [
+      "Jean-Mary tauk — Videographer",
+      "Jowi Issa — Director",
+      "Suleiman Salim — Videographer",
+      "Yara Daou — Director",
+      "Mario Raad — Videographer",
+      "Hanine Kanaan — Director"
+    ],
+    "Content Creation": [
+      "Antoine Toufic — Content Creator & Script Writer",
+      "William Dadaa — Content Creator & Script Writer"
+    ],
+    "Customer Service": [
+      "Mariebelle Damouni — Account Management",
+      "Hanady Akl — Media Distribution",
+      "Francois Alskayem — Collector Driver",
+      "Scarlit Dib — Posting Supervisor",
+      "Charbel rizk — Client Agent"
+    ],
+    "Graphic Design And Web development": [
+      "Omar Charqiyeh — Graphic Designer Supervisor",
+      "Ahmad Balbissi — Web Development Supervisor"
+    ],
+    "Editing Team": [
+      "Anthony Ghanem — Senior video editor",
+      "Youssef Alstouhi — Video Editor",
+      "Layal Assaf — Video Editor",
+      "Maroun Salameh — Video Editor",
+      "Houssam Najjar — Video Editor",
+      "Mohamad Roubaii — Video Editor",
+      "Jouli Salemeh — Video Editor",
+      "Moataz Assad — Video Editor",
+      "Mohammad Sharafeddeen — Video Editor",
+      "Ilbra Ghazar — Copy Writer"
+    ]
+  },
+  "final_cta": {
+    "title": "Book your meeting now",
+    "text": "We build your influence, your image, and your online authority so the world sees you the way you were meant to be seen.",
+    "label": "Book a meeting",
+    "href": "https://calendly.com/rami-w-alnajjar/alnajjar-firm-introductory-meeting"
+  },
+  "portfolio": [
+    {
+      "slug": "doctor-health",
+      "name": "Doctor/Health",
+      "items": [
+        {
+          "name": "Dr. Ghassan Azar",
+          "role": "Gynecologist",
+          "image": "./our-clients/Dr-Ghassan-Azar.webp",
+          "instaLink": "https://www.instagram.com/dr.ghassanazar?igsh=MTlocXM1Z2x2d2JvYg==",
+          "tiktokLink": "https://www.tiktok.com/@dr.ghassanazar?_t=8pGzeYzCkIz&_r=1",
+          "instaGrowth": "from 3K to 1.1M Followers",
+          "tiktokGrowth": "from 0K to 1.2M Followers"
+        },
+        {
+          "name": "Dr. Carla Mourad",
+          "role": "Dietitian",
+          "image": "./our-clients/Dr-Carla-Mourad.webp",
+          "instaLink": "https://www.instagram.com/drcarlaofficial?igsh=ZXNoaHgxdGh4bWYw",
+          "tiktokLink": "https://www.tiktok.com/@drcarlaofficial?_t=8pGzl2sMb3N&_r=1",
+          "instaGrowth": "from 2.2K to 409K Followers",
+          "tiktokGrowth": "from 0K to 433.6K Followers"
+        },
+        {
+          "name": "Dr. Elie Fares",
+          "role": "Dentistry",
+          "image": "./our-clients/Dr-Elie-Fares.webp",
+          "instaLink": "https://www.instagram.com/dreliefares?igsh=MTc1dTdzeHZ6ZWVqeA==",
+          "tiktokLink": "https://www.tiktok.com/@dr.eliefares0?_t=ZS-90lM7xhtWDM&_r=1",
+          "instaGrowth": "from 50K to 107K Followers",
+          "tiktokGrowth": "from 0K to 67.5K Followers"
+        },
+        {
+          "name": "Dr. Yasmine Alameddine",
+          "role": "Pharmacist",
+          "image": "./our-clients/Dr-Yasmine-Alameddine.webp",
+          "instaLink": "https://www.instagram.com/dr.yasminealameddine/",
+          "tiktokLink": "https://www.tiktok.com/@dr.yasminealameddine",
+          "instaGrowth": "From 0K to 203K Followers",
+          "tiktokGrowth": "From 0K to 259.6K Followers"
+        },
+        {
+          "name": "Dr. Elie Metni",
+          "role": "Physiotherapist",
+          "image": "./our-clients/dr-elie-metni.webp",
+          "instaLink": "https://www.instagram.com/elie_metni?igsh=bHZvcjdncXVudTQ0",
+          "tiktokLink": "https://www.tiktok.com/@dr.eliemetni",
+          "instaGrowth": "from 3K to 307K Followers",
+          "tiktokGrowth": "from 0K to 256.7K Followers"
+        },
+        {
+          "name": "Dr Nicole Dib",
+          "role": "General and Cosmetic Dermatologist",
+          "image": "./our-clients/nicole dib.webp",
+          "instaLink": "https://www.instagram.com/drnicoledib/",
+          "tiktokLink": "https://www.tiktok.com/@nicole.dib1",
+          "instaGrowth": "from 0K to 22.5K Followers",
+          "tiktokGrowth": "from 0K to 49.9K Followers"
+        },
+        {
+          "name": "Dr. Salah Damer",
+          "role": "Dentist",
+          "image": "./our-clients/Salah-damer.webp",
+          "instaLink": "https://www.instagram.com/salahdamer?igsh=bW9paWpyMTUwYWFy",
+          "tiktokLink": "https://www.tiktok.com/@drsalahdamer?_t=8pGzFEJHvT3&_r=1",
+          "instaGrowth": "from 1 K to 72.4K Followers",
+          "tiktokGrowth": "from 0 to 78.5K Followers"
+        },
+        {
+          "name": "Dr. Christelle Dagher",
+          "role": "Doctor",
+          "image": "./our-clients/christelle dagher.webp",
+          "instaLink": "https://www.instagram.com/dr.christelledagher/",
+          "tiktokLink": "https://www.tiktok.com/@drchristelledagher",
+          "instaGrowth": "from 0K to 6K Followers",
+          "tiktokGrowth": "from 0K to 20K Followers"
+        },
+        {
+          "name": "Dr. Naji and Stephanie",
+          "role": "Pharmacist",
+          "image": "./our-clients/naji and stephani.webp",
+          "instaLink": "https://www.instagram.com/drsnajiandsteph/",
+          "tiktokLink": "https://www.tiktok.com/@drs.najiandsteph",
+          "instaGrowth": "from 0K to 101K Followers",
+          "tiktokGrowth": "from 0K to 129.5K Followers"
+        },
+        {
+          "name": "Dr. Fida Hamoud",
+          "role": "Dermatologist",
+          "image": "./our-clients/fida hammoud.webp",
+          "instaLink": "https://www.instagram.com/drfidahammoud/",
+          "tiktokLink": "https://www.tiktok.com/@dr.fidahammoud",
+          "instaGrowth": "from 1K to 17.9K Followers",
+          "tiktokGrowth": "from 0K to 51.4K Followers"
+        },
+        {
+          "name": "Dr. Gaby Moawad",
+          "role": "Surgical Gynecology",
+          "image": "./our-clients/Gaby moawad.webp",
+          "instaLink": "https://www.instagram.com/gabymoawad?igsh=MTc1OXNidm02NmRuNg==",
+          "tiktokLink": "https://www.tiktok.com/@gaby.moawad?_t=ZS-90lMGAKHiKL&_r=1",
+          "instaGrowth": "From 2K to 28.9K Followers",
+          "tiktokGrowth": "From 0K to 10.5K Followers"
+        },
+        {
+          "name": "Dr. Farah Alnafousi",
+          "role": "General Medicine",
+          "image": "./our-clients/Dr farah.webp",
+          "instaLink": "https://www.instagram.com/dr.farahalnafoosi/",
+          "tiktokLink": "https://www.tiktok.com/@dr.farah_nofal_alnafoosi?_t=ZS-90lMYp1vkOa&_r=1",
+          "instaGrowth": "from 0K to 6.6K Followers",
+          "tiktokGrowth": "From 0K to 14.7K Followers"
+        }
+      ]
+    },
+    {
+      "slug": "beauty",
+      "name": "Beauty",
+      "items": [
+        {
+          "name": "Rima Morkos",
+          "role": "Hair Treatments Specialist",
+          "image": "./our-clients/rima-morkos.webp",
+          "instaLink": "https://www.instagram.com/rimasmorkos?igsh=MWh2MTJ0c3JvdjF3dg==",
+          "tiktokLink": "https://www.tiktok.com/@rimasmorkos?_t=8pGyuWvedwT&_r=1",
+          "instaGrowth": "from 2.5K to 1M Followers",
+          "tiktokGrowth": "from 0K to 1M Followers"
+        },
+        {
+          "name": "Salam Morkos",
+          "role": "Hair Stylist",
+          "image": "./our-clients/salam-morkos.webp",
+          "instaLink": "https://www.instagram.com/salam_r_morkos?igsh=MTFoZWZmdGYwc2xvdw==",
+          "tiktokLink": "https://www.tiktok.com/@salammorkos5?_t=8pGzuqOCFRh&_r=1",
+          "instaGrowth": "from 180K to 583K Followers",
+          "tiktokGrowth": "from 0K to 414.4K Followers"
+        },
+        {
+          "name": "Lina Rai",
+          "role": "Jewellery Designer",
+          "image": "./our-clients/lina-rai.webp",
+          "instaLink": "https://www.instagram.com/linaraijewelrycouture?igsh=MWp6dWw5ZDl6M2loMQ==",
+          "tiktokLink": "https://www.tiktok.com/@linaraijewelry",
+          "instaGrowth": "from 48K to 726K Followers",
+          "tiktokGrowth": "from 0K to 403K Followers"
+        },
+        {
+          "name": "Liliane Najem",
+          "role": "Makeup Artist",
+          "image": "./our-clients/liliane-najem.webp",
+          "instaLink": "https://www.instagram.com/lilianenehmenajem?igsh=MWwwMXd4ZGI1eGxzNg==",
+          "tiktokLink": "https://www.tiktok.com/@lilianenajm?_t=8pGyykLMdyH&_r=1",
+          "instaGrowth": "from 6K to 1M Followers",
+          "tiktokGrowth": "from 0K to 640K Followers"
+        },
+        {
+          "name": "Fadia Haddad",
+          "role": "Abbayas Designe",
+          "image": "./our-clients/abayate fadia.webp",
+          "instaLink": "https://www.instagram.com/fadia_haddad.leb?igsh=MTdrNXZvYjZuNzBsbA==",
+          "tiktokLink": "https://www.tiktok.com/@fadiahaddadofficial?_t=8pGzq42zPlA&_r=1",
+          "instaGrowth": "from 10K to 691K Followers",
+          "tiktokGrowth": "from 0K to 305K Followers"
+        },
+        {
+          "name": "Bouba",
+          "role": "Makeup Artist",
+          "image": "./our-clients/bouba.webp",
+          "instaLink": "https://www.instagram.com/bouba/",
+          "tiktokLink": "https://www.tiktok.com/@boubatok",
+          "instaGrowth": "",
+          "tiktokGrowth": "",
+          "shows": "Bouba Academy Battles - Ramadan Series - Bouba And Fady Product Ratings"
+        },
+        {
+          "name": "Fady Kataya",
+          "role": "Makeup Artist",
+          "image": "./our-clients/fady kataya.webp",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": "",
+          "shows": "Make up Police - Ask Fady - Bouba And Fady Product Ratings"
+        },
+        {
+          "name": "Rania Kays",
+          "role": "Makeup Artist",
+          "image": "./our-clients/rania-kays.webp",
+          "instaLink": "https://www.instagram.com/raniakays?igsh=MWVjNjRoMDFzNGp6cA==",
+          "tiktokLink": "https://www.tiktok.com/@gotoglowbyrk?_t=8pGzb1uYZ65&_r=1",
+          "instaGrowth": "from 90K to 635K Followers",
+          "tiktokGrowth": "from 0K to 217K Followers"
+        },
+        {
+          "name": "Miss Young Fashion",
+          "role": "Fashion",
+          "image": "./our-clients/carl-diab.webp",
+          "instaLink": "https://www.instagram.com/missyoung_designs?igsh=dmFmY243ajQ1MWJh",
+          "tiktokLink": "https://www.tiktok.com/@missyoungdesigns?_t=ZS-90lM3UcZg8m&_r=1",
+          "instaGrowth": "from 8K to 122K Followers",
+          "tiktokGrowth": "from 0K to 20.8K Followers"
+        },
+        {
+          "name": "Bouchra Hammoud",
+          "role": "Makeup Artist",
+          "image": "./our-clients/bourcha hammoud.webp",
+          "instaLink": "https://www.instagram.com/boushrabeauty?igsh=MXVpbmdkbTI2YTQ3NA==",
+          "tiktokLink": "https://www.tiktok.com/@bouchrahammoud8?_r=1&_t=ZS-92QllbotPJA",
+          "instaGrowth": "from 0K to 241K Followers",
+          "tiktokGrowth": "from 0K to 266K Followers"
+        },
+        {
+          "name": "Kost Makeup",
+          "role": "Makeup Artist",
+          "image": "./our-clients/Sara-khabbaz.webp",
+          "instaLink": "https://www.instagram.com/kostmakeup.me/",
+          "tiktokLink": "https://www.tiktok.com/@kostmakeup.me",
+          "instaGrowth": "from 0K to 32.7K Followers",
+          "tiktokGrowth": "from 0K to 62.9K Followers"
+        },
+        {
+          "name": "Joharia",
+          "role": "Handmade Jewerly",
+          "image": "./our-clients/joharia.webp",
+          "instaLink": "https://www.instagram.com/joharialb?igsh=MXB0Y2d6NTZqc3h5YQ==",
+          "tiktokLink": "https://www.tiktok.com/@joharia.jewelry?_t=ZS-8tRkkLw8uay&_r=1",
+          "instaGrowth": "from 0K to 33.5K Followers",
+          "tiktokGrowth": "from 0K to 100.9K Followers"
+        }
+      ]
+    },
+    {
+      "slug": "coaching",
+      "name": "Coaching",
+      "items": [
+        {
+          "name": "Hania Bsat",
+          "role": "Life Consultant",
+          "image": "./our-clients/Hania-Bsat-min.webp",
+          "instaLink": "https://www.instagram.com/haniabsat?igsh=NXc2b2tkbmlnaDhr",
+          "tiktokLink": "https://www.tiktok.com/@haniabsat?_t=ZS-8tRgyAfdD31&_r=1",
+          "instaGrowth": "from 5K to 553K Followers",
+          "tiktokGrowth": "from 0K to 632.1K Followers"
+        },
+        {
+          "name": "Philip Gahshan",
+          "role": "Business Consultant",
+          "image": "./our-clients/Philip-gahshan.webp",
+          "instaLink": "https://www.instagram.com/philipgahshan?igsh=MmU2dHR0dmgxbWJ4",
+          "tiktokLink": "https://www.tiktok.com/@philipgahshan?_t=ZS-8t3quQeaS1w&_r=1",
+          "instaGrowth": "from 2K to 405K Followers",
+          "tiktokGrowth": "from 0K to 228.9K Followers"
+        },
+        {
+          "name": "Manal Nabulsi",
+          "role": "Love Coach",
+          "image": "./our-clients/Dr-Manal-Nabulsi.webp",
+          "instaLink": "https://www.instagram.com/coachmanalnaboulsi?igsh=MWF1aGE2OXZzc3Y4dA==",
+          "tiktokLink": "https://www.tiktok.com/@manalnaboulsi?_t=ZS-90lT4aDqUcu&_r=1",
+          "instaGrowth": "From 315K to 396K Followers",
+          "tiktokGrowth": "From 290K to 437K Followers"
+        },
+        {
+          "name": "Zeina Mneimneh",
+          "role": "Child Accident Prevention",
+          "image": "./our-clients/zeina mneimenh.webp",
+          "instaLink": "https://www.instagram.com/zeina_mneimneh?igsh=Z2liNnl5ejM1c2Rx",
+          "tiktokLink": "https://www.tiktok.com/@zeinamneimneh01?_t=ZS-8umXrgaqRxn&_r=1",
+          "instaGrowth": "from 5K to 326K Followers",
+          "tiktokGrowth": "from 0K to 71.6K Followers"
+        },
+        {
+          "name": "Abir Batrouni",
+          "role": "Certified Coach MCC & ACT",
+          "image": "./our-clients/abir batrouni.webp",
+          "instaLink": "https://www.instagram.com/abir_batrouni?igsh=eWoyYXE0bTllNHht",
+          "tiktokLink": "https://www.tiktok.com/@abir.batrouni6?_t=ZS-8umXsGXfLOS&_r=1",
+          "instaGrowth": "from 5K to 159K Followers",
+          "tiktokGrowth": "from 0K to 313.7K Followers"
+        },
+        {
+          "name": "Mirna El Khalil",
+          "role": "Relationships Coach",
+          "image": "./our-clients/mirna khalil.webp",
+          "instaLink": "https://www.instagram.com/mirnaelkhalil?igsh=MTgzNThpazdlOHA5Nw==",
+          "tiktokLink": "https://www.tiktok.com/@mirnalkhalil?_t=8pGznAikR3V&_r=1",
+          "instaGrowth": "from 5K to 281K Followers",
+          "tiktokGrowth": "from 0K to 160.2K Followers"
+        },
+        {
+          "name": "Sendes Yahfoufi",
+          "role": "Coaching",
+          "image": "./our-clients/Sendos yehfoufi.webp",
+          "instaLink": "https://www.instagram.com/sendesyahfoufi/",
+          "tiktokLink": "https://www.tiktok.com/@sendesyahfoufi/",
+          "instaGrowth": "From 0K to 120K Followers",
+          "tiktokGrowth": "From 0K to 151.8K Followers"
+        }
+      ]
+    },
+    {
+      "slug": "wellness",
+      "name": "Psychology and Wellness",
+      "items": [
+        {
+          "name": "Faten Saleh",
+          "role": "Psychologist",
+          "image": "./our-clients/faten saleh.webp",
+          "instaLink": "https://www.instagram.com/fatensaleh.psy?igsh=MzRlY2Q0bGszZzdn",
+          "tiktokLink": "https://www.tiktok.com/@fatensaleh.psy?_t=8pGz937eZfA&_r=1",
+          "instaGrowth": "from 0K to 397K Followers",
+          "tiktokGrowth": "from 0K to 420.9K Followers"
+        },
+        {
+          "name": "Nadine El Khalil",
+          "role": "Wellness & Yoga",
+          "image": "./our-clients/nadin-el-khalil.webp",
+          "instaLink": "https://www.instagram.com/wellnessbynadine?igsh=MW1ncXRlaWp4bDB6Yg==",
+          "tiktokLink": "https://www.tiktok.com/@wellnessbynadine?_t=ZS-90lMoTgzaSa&_r=1",
+          "instaGrowth": "From 2K to 363K Followers",
+          "tiktokGrowth": "From 4K to 209.9K Followers"
+        },
+        {
+          "name": "luciana habib",
+          "role": "Psychologist",
+          "image": "./our-clients/luciana habib.webp",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "from 6K to 120K Followers",
+          "tiktokGrowth": "from 0K to 110K Followers"
+        },
+        {
+          "name": "Nadine kallache",
+          "role": "Alternative & Holistic Health Service",
+          "image": "./our-clients/Nadine Kalash.webp",
+          "instaLink": "https://www.instagram.com/nadinekalache.wellbeing/",
+          "tiktokLink": "https://www.tiktok.com/@nadinekalache.wellbeing",
+          "instaGrowth": "From 0K to 42.8K Followers",
+          "tiktokGrowth": "From 0K to 174.7K Followers"
+        },
+        {
+          "name": "Dr. Lina moucharrafieh",
+          "role": "Health & wellness",
+          "image": "./our-clients/dr-lina-moucharrafieh.webp",
+          "instaLink": "https://www.instagram.com/stress.medicine/",
+          "tiktokLink": "https://www.tiktok.com/@stress.medicine/",
+          "instaGrowth": "From 0K to 41K Followers",
+          "tiktokGrowth": "From 0K to 47K Followers"
+        }
+      ]
+    },
+    {
+      "slug": "interior-design",
+      "name": "Interior Design",
+      "items": [
+        {
+          "name": "Hala Badredine",
+          "role": "Interior Designer",
+          "image": "./our-clients/hala badreldiin.webp",
+          "instaLink": "https://www.instagram.com/hala_badreddine/",
+          "tiktokLink": "https://www.tiktok.com/@oclus.co?_t=8pGzyWc1Aw4&_r=1",
+          "instaGrowth": "from 0K to 151K Followers",
+          "tiktokGrowth": "from 0K to 37.2K Followers"
+        },
+        {
+          "name": "Nadine Beydoun",
+          "role": "Interior Architect",
+          "image": "./our-clients/nadine-baydoun.webp",
+          "instaLink": "https://www.instagram.com/by.nadinebeydoun/",
+          "tiktokLink": "https://www.tiktok.com/@by.nadinebeydoun/",
+          "instaGrowth": "From 0K to 15.2K Followers",
+          "tiktokGrowth": "From 0K to 19.2K Followers"
+        }
+      ]
+    },
+    {
+      "slug": "cooking",
+      "name": "Cooking and Restaurants",
+      "items": [
+        {
+          "name": "Joyceful Delights",
+          "role": "Chef",
+          "image": "./our-clients/Joyceful Delights.png",
+          "instaLink": "https://www.instagram.com/joyceful.delights?igsh=MWN1MDYzaWl2Mm9oOQ==",
+          "tiktokLink": "https://www.tiktok.com/@joyceful.delights?_t=ZS-90lMfRUBMYO&_r=1",
+          "instaGrowth": "From 0K to 42.6K Followers",
+          "tiktokGrowth": "From 0K to 11.8K Followers"
+        },
+        {
+          "name": "Comodor restaurant",
+          "role": "Restaurant",
+          "image": "./our-clients/comodor-restaurent.webp",
+          "instaLink": "https://www.instagram.com/comodor_rest/",
+          "tiktokLink": "https://www.tiktok.com/@comodorrest1964",
+          "instaGrowth": "From 0K to 97.3K Followers",
+          "tiktokGrowth": "From 0K to 106K Followers"
+        },
+        {
+          "name": "Al Massoud girl",
+          "role": "Restaurant",
+          "image": "./our-clients/massoud.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Ozeir Chicken",
+          "role": "Restaurant",
+          "image": "./our-clients/alozeir.jpg",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "3al smoker",
+          "role": "Restaurant",
+          "image": "./our-clients/smoker.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Cafe Matte",
+          "role": "Cafeteria",
+          "image": "./our-clients/cafe.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        }
+      ]
+    },
+    {
+      "slug": "companies",
+      "name": "Companies",
+      "items": [
+        {
+          "name": "Riyadeh Academy UAE",
+          "role": "Basketball Academy",
+          "image": "./our-clients/alriyadi.jpg",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Zenos",
+          "role": "Supplement Store",
+          "image": "./our-clients/Zenos health.jpg",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Zaka.ai",
+          "role": "Artificial Intelligence Academy",
+          "image": "./our-clients/Zaka ai.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Asa Padel",
+          "role": "Padel Academy",
+          "image": "./our-clients/asa padel.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Asa Academy",
+          "role": "Sport Academy",
+          "image": "./our-clients/asa.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Seven Properties",
+          "role": "Real Estate Company",
+          "image": "./our-clients/seven properties.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        },
+        {
+          "name": "Verofax",
+          "role": "AI Company",
+          "image": "./our-clients/vertax.png",
+          "instaLink": "",
+          "tiktokLink": "",
+          "instaGrowth": "",
+          "tiktokGrowth": ""
+        }
+      ]
+    }
+  ],
+  "team_images": {
+    "Rami Alnajjar": {
+      "image": "./stuff/Rami.png",
+      "role": "Owners & Marketing Strategists"
+    },
+    "Thalia Alnajjar": {
+      "image": "./stuff/Talia.png",
+      "role": "Owners & Marketing Strategists"
+    },
+    "Maher Alnajjar": {
+      "image": "./stuff/Maher.webp",
+      "role": "General Manager"
+    },
+    "Michael Ayoub": {
+      "image": "./stuff/Micheal.webp",
+      "role": "Head Of Operations"
+    },
+    "Mohammad Issa": {
+      "image": "./stuff/mohammad issa.webp",
+      "role": "Head Of Editorial"
+    },
+    "George Salloum": {
+      "image": "./stuff/joerge.webp",
+      "role": "Performance Manager"
+    },
+    "Jean-Mary tauk": {
+      "image": "./stuff/jean marry.webp",
+      "role": "Videographer"
+    },
+    "Jowi Issa": {
+      "image": "./stuff/Jowie.webp",
+      "role": "Director"
+    },
+    "Suleiman Salim": {
+      "image": "./stuff/salim.webp",
+      "role": "Videographer"
+    },
+    "Yara Daou": {
+      "image": "./stuff/yara.webp",
+      "role": "Director"
+    },
+    "Mario Raad": {
+      "image": "./stuff/mario.webp",
+      "role": "Videographer"
+    },
+    "Hanine Kanaan": {
+      "image": "./stuff/Hanin.webp",
+      "role": "Director"
+    },
+    "Antoine Toufic": {
+      "image": "./stuff/antoun.webp",
+      "role": "Content Creator & Script Writer"
+    },
+    "William Dadaa": {
+      "image": "./stuff/william.webp",
+      "role": "Content Creator & Script Writer"
+    },
+    "Mariebelle Damouni": {
+      "image": "./stuff/maribelle.webp",
+      "role": "Account Management"
+    },
+    "Hanady Akl": {
+      "image": "./stuff/Hanadi.webp",
+      "role": "Media Distribution"
+    },
+    "Francois Alskayem": {
+      "image": "./stuff/froncois.webp",
+      "role": "Collector Driver"
+    },
+    "Scarlit Dib": {
+      "image": "./stuff/Scarlit.webp",
+      "role": "Posting Supervisor"
+    },
+    "Charbel rizk": {
+      "image": "./stuff/charbel.webp",
+      "role": "Client Agent"
+    },
+    "Omar Charqiyeh": {
+      "image": "./stuff/omar.webp",
+      "role": "Graphic Designer Supervisor"
+    },
+    "Ahmad Balbissi": {
+      "image": "./stuff/Ahmad Balbissi.jpg",
+      "role": "Web Development Supervisor"
+    },
+    "Anthony Ghanem": {
+      "image": "./stuff/Antony.webp",
+      "role": "Senior video editor"
+    },
+    "Youssef Alstouhi": {
+      "image": "./stuff/yousuf.webp",
+      "role": "Video Editor"
+    },
+    "Layal Assaf": {
+      "image": "./stuff/Layal.webp",
+      "role": "Video Editor"
+    },
+    "Maroun Salameh": {
+      "image": "./stuff/maroun.webp",
+      "role": "Video Editor"
+    },
+    "Houssam Najjar": {
+      "image": "./stuff/housam-min.webp",
+      "role": "Video Editor"
+    },
+    "Mohamad Roubaii": {
+      "image": "./stuff/mohammad.webp",
+      "role": "Video Editor"
+    },
+    "Jouli Salemeh": {
+      "image": "./stuff/Jouli.webp",
+      "role": "Video Editor"
+    },
+    "Moataz Assad": {
+      "image": "./stuff/moatazz.webp",
+      "role": "Video Editor"
+    },
+    "Mohammad Sharafeddeen": {
+      "image": "./stuff/mohammad-3-min.webp",
+      "role": "Video Editor"
+    },
+    "Ilbra Ghazar": {
+      "image": "./stuff/ilbra.webp",
+      "role": "Copy Writer"
+    }
+  }
+}

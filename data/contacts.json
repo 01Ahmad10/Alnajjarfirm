@@ -1,0 +1,21 @@
+{
+  "title": "Speak to Our Team",
+  "subtitle": "Excellence starts with connection. Reach out and experience personalized service.",
+  "contacts": [
+    {
+      "value": "+961 81 623 936",
+      "href": "tel:+96181623936"
+    },
+    {
+      "value": "WhatsApp: +961 81 623 936",
+      "href": "https://wa.me/96181623936"
+    },
+    {
+      "value": "info@alnajjarfirm.com",
+      "href": "mailto:info@alnajjarfirm.com"
+    },
+    {
+      "value": "Awkar - haret el ballan"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Our Process",
+  "subtitle": "A clear and guided journey from onboarding to growth optimization.",
+  "steps": [
+    {
+      "title": "Payment made",
+      "text": "Complete the payment. We'll send you the company driver to collect the money. Or you can pay via Whish or OMT.",
+      "badges": ["./site-icons/payment getway 1.webp", "./site-icons/paymnet geway 2.webp"]
+    },
+    {
+      "title": "WhatsApp group",
+      "text": "Within 24 hours, we create a WhatsApp group and schedule a kickoff meeting."
+    },
+    {
+      "title": "Kickoff meeting",
+      "text": "We align on style, branding direction, and color palette."
+    },
+    {
+      "title": "Content and script creation",
+      "text": "Our team prepares 20 content ideas and scripts, then reviews them with you."
+    },
+    {
+      "title": "Shooting and editing",
+      "text": "Professional shooting session followed by editing, captions, and thumbnails."
+    },
+    {
+      "title": "Approval and posting",
+      "text": "We secure your approval and post strategically across four platforms."
+    },
+    {
+      "title": "Analysis result",
+      "text": "We analyze performance and optimize the next content cycle."
+    }
+  ]
+}
